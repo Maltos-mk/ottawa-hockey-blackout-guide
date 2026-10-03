@@ -1,16 +1,15 @@
 {
-  "name": "Ottawa Hockey Broadcast & Blackout Guide",
-  "short_name": "Ottawa Guide",
-  "description": "Independent Ottawa Senators broadcast schedule and regional blackout calculator.",
-  "start_url": "./",
+  "name": "Ottawa Senators Blackout Guide",
+  "short_name": "OTT",
+  "start_url": ".",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#000000",
+  "background_color": "#8b1623",
+  "theme_color": "#c52032",
   "icons": [
     {
-      "src": "favicon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml"
+      "src": "shared/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
     }
   ]
 }
